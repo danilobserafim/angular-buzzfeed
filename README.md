@@ -1,27 +1,28 @@
-# AngularBuzzfeed
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
+# Clone BuzzFeed
 
-## Development server
+Clone desenvolvido no desafio da Digital Innovation One para finalização do bootcamp "Potência Tech Angular Developer - Powered by iFood"
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![Banner](./src/assets/images/front_readme.png)
 
-## Code scaffolding
+## Instalação
+• Baixar arquivos desse repositório•  
+• Abrir proMpt de comando ( ou alguma CLI de sua preferencia) na pasta do projeto•  
+• Executar ( no prompt ) o comando "npm install && npm run start"•  
+• Após a instalação dos pacotes execute o comando  "npm run start" para iniciar a aplicação•  
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## Modo de uso
+• Após a instalação dos pacotes e a inicialização do projeto acesse "http://localhost:4200" e se divirta!
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Tecnologías
+• Angular
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Licença
+ISC
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Créditos
+Danilob.serafim@gmail.com
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
