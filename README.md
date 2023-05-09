@@ -6,10 +6,10 @@ Clone desenvolvido no desafio da Digital Innovation One para finalização do bo
 ![Banner](./src/assets/images/front_readme.png)
 
 ## Instalação
-• Baixar arquivos desse repositório.
-• Abrir prompt de comando ( ou alguma CLI de sua preferencia) na pasta do projeto.
-• Executar ( no prompt ) o comando "npm install".
-• Após a instalação dos pacotes execute o comando  "npm run start" para iniciar a aplicação.  
+• Baixar arquivos desse repositório.  
+• Abrir prompt de comando ( ou alguma CLI de sua preferencia) na pasta do projeto.  
+• Executar ( no prompt ) o comando "npm install". 
+• Após a instalação dos pacotes execute o comando  "npm run start" para iniciar a aplicação.    
 
 
 ## Modo de uso
